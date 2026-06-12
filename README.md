@@ -22,7 +22,7 @@ Always eager to learn emerging DevOps technologies and contribute to modern clou
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Expertiese
 
 - ☁ Azure Cloud
 - 🚀 Azure DevOps Pipelines
@@ -37,7 +37,7 @@ Always eager to learn emerging DevOps technologies and contribute to modern clou
 
 ---
 
-# ☁ Azure Expertise
+# ☁ Azure 
 
 | Services | Experience |
 |----------|------------|
@@ -126,21 +126,11 @@ Always eager to learn emerging DevOps technologies and contribute to modern clou
 
 ---
 
-# 🏆 GitHub Trophy
+<h3 align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Nishantlata&theme=tokyonight&no-frame=true&column=4&margin-w=15)
+🚀 "Code. Automate. Deploy. Monitor. Repeat."
 
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Nishantlata/Nishantlata/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# ✨ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</h3>
 
 ---
 
