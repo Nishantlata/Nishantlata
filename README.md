@@ -27,7 +27,7 @@
 
 # 💎 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about.png"/>
 
 ## 🚀 Azure DevOps Engineer
 
