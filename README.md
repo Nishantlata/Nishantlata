@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA&text=Nishant%20Lata&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Azure%20DevOps%20Engineer%20%7C%20Cloud%20Automation%20Specialist&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&customColorList=12,20,24,25,30&text=NISHANT%20LATA&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Azure%20DevOps%20Engineer%20%7C%20Terraform%20Specialist%20%7C%20Cloud%20Automation&descAlignY=60&descSize=20"/>
 
 <br>
 
-# 👋 Hi, I'm Nishant Lata
+<img width="420" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
 
-### ☁ Azure DevOps Engineer • Terraform Specialist • Cloud Infrastructure Automation
+### ☁ Azure DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Azure+Cloud+Engineer;Azure+DevOps+Engineer;Terraform+Infrastructure+as+Code;CI%2FCD+Automation+Expert;Docker+%7C+Kubernetes+%7C+GitHub+Actions;Linux+Automation;Infrastructure+Automation;DevSecOps+Enthusiast;Always+Learning+Something+New+🚀" />
+#### Building Enterprise Cloud Infrastructure through Automation
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Azure+Cloud+Engineer;Terraform+Infrastructure+Expert;Azure+DevOps+Pipelines;Kubernetes+Administrator;GitHub+Actions;Cloud+Automation;DevSecOps;Always+Learning..." />
 
-<img src="https://komarev.com/ghpvc/?username=Nishantlata&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
+<br>
 
-<img src="https://img.shields.io/github/followers/Nishantlata?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=Nishantlata&style=for-the-badge&color=2563EB"/>
 
-<img src="https://img.shields.io/github/stars/Nishantlata?style=for-the-badge&logo=github&label=TOTAL+STARS"/>
+<img src="https://img.shields.io/github/followers/Nishantlata?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/last-commit/Nishantlata/Nishantlata?style=for-the-badge&logo=github&label=LAST+UPDATE"/>
+<img src="https://img.shields.io/github/stars/Nishantlata?style=for-the-badge"/>
 
 </div>
 
