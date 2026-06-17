@@ -26,7 +26,7 @@
 
 # 💎 About Me
 
-<img align="right" width="370" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f4d-f5d53b3e7c0b.gif"/>
 
 ## 🚀 Azure DevOps Engineer
 
