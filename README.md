@@ -27,34 +27,20 @@
 
 # 💎 About Me
 
-<img align="right" width="380" alt="Azure DevOps Engineer" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
 
-## 🚀 Azure DevOps Engineer | Cloud Infrastructure Automation
+## 🚀 Azure DevOps Engineer
 
-I'm an **Azure DevOps Engineer** with **13+ years of IT experience**, including hands-on expertise in **Cloud Infrastructure, DevOps, Infrastructure as Code (IaC), and Automation**.
+I am a passionate **Azure DevOps Engineer** with strong expertise in designing, automating, and managing enterprise-grade cloud infrastructure. I specialize in building scalable, secure, and highly available platforms using Infrastructure as Code, CI/CD automation, containers, and Kubernetes.
 
-I specialize in designing, automating, and managing **enterprise-scale Azure cloud environments** using modern DevOps practices. My focus is on building **secure, scalable, highly available, and production-ready infrastructure** with **Terraform**, **Azure DevOps**, **GitHub Actions**, **Docker**, **Kubernetes (AKS)**, and **Linux**.
+With hands-on experience in Azure cloud environments, Terraform, Azure DevOps, GitHub Actions, Linux administration, and automation, I enjoy transforming manual deployment processes into reliable and repeatable DevOps workflows.
 
-I enjoy transforming manual deployment processes into **fully automated CI/CD pipelines**, creating reusable Terraform modules, optimizing cloud infrastructure, and implementing Infrastructure as Code to deliver reliable and efficient cloud solutions.
+I believe in **Automation First**, **Infrastructure as Code**, **GitOps**, and **Continuous Improvement**.
 
-### 🚀 Core Expertise
+<br>
 
-- ☁ Azure Cloud Infrastructure
-- 🚀 Azure DevOps & GitHub Actions
-- 🏗 Infrastructure as Code (Terraform)
-- ☸ Kubernetes (AKS)
-- 🐳 Docker & Containerization
-- 🔄 GitOps & Automation
-- 🔐 DevSecOps Best Practices
-- 📊 Monitoring with Prometheus & Grafana
-- 🐧 Linux Administration
-- ⚡ Bash & Python Automation
+> ### 💙 *"Automate Everything • Deploy Fearlessly • Monitor Continuously."*
 
----
-
-### 💡 Engineering Philosophy
-
-> **"Automate Everything • Build Once • Deploy Anywhere • Monitor Continuously • Improve Every Day."**
 
 
 
