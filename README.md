@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,100:00C6FF&text=NISHANT%20LATA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Lead%20|%20Azure%20DevOps%20Engineer%20|/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,100:00C6FF&text=NISHANT%20LATA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Lead%20|%20Azure%20DevOps%20Engineer%20
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=☁️+Azure+Cloud+Specialist;🚀+CI%2FCD+Pipeline+Architect;🐳+Docker+%7C+Kubernetes+Expert;🏗️+Terraform+Infrastructure+Automation;⚡+Building+Scalable+Cloud+Platforms"/>
 
