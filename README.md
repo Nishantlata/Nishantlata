@@ -1,8 +1,3 @@
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
-
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,100:00C6FF&text=NISHANT%20LATA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Lead%20|%20Azure%20DevOps%20Engineer%20|%2011+Years+Experience&descAlignY=60"/>
