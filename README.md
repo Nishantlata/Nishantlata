@@ -44,10 +44,7 @@ Building Enterprise CI/CD Platforms • Automating Infrastructure • Engineerin
 
 ```yaml
 Name: Nishant Lata
-Role: Implementation Manager | Azure DevOps Engineer
-Experience: 11+ Years
-Company: Ericsson
-Location: Noida, India
+Role: Implementation Manager | Azure DevOps Lead
 
 Specializations:
   - Microsoft Azure
