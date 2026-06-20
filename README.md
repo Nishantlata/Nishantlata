@@ -1,7 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,100:00C6FF&text=NISHANT%20LATA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Lead%20|%20Azure%20DevOps%20Engineer%20
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0078D4,100:00C6FF&text=NISHANT%20LATA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Lead%20|%20Azure%20DevOps%20Engineer%20|%20Cloud%20Automation%20Specialist&descAlignY=60"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=☁️+Azure+Cloud+Specialist;🚀+CI%2FCD+Pipeline+Architect;🐳+Docker+%7C+Kubernetes+Expert;🏗️+Terraform+Infrastructure+Automation;⚡+Building+Scalable+Cloud+Platforms"/>
+
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="550"/>
+
+<h3>
+☁️ DevOps Lead | Azure DevOps Engineer | Cloud Automation Specialist | Platform Engineering Enthusiast
+</h3>
+
+<p>
+Building Enterprise CI/CD Platforms • Automating Infrastructure • Engineering Reliability
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-11%2B%20Years-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-Expert-0078D4?style=for-the-badge&logo=microsoftazure"/>
+</p>
+
+</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=☁️+Azure+Cloud+Specialist;🚀+CI%2FCD+Pipeline+Architect;🐳+Docker+%7C+Kubernetes+Expert;🏗️+Terraform+Infrastructure+Automation;⚡+Building+Scalable+Cloud+Platforms"/>
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="550">
