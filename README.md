@@ -1,10 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&customColorList=12,20,24,25,30&text=NISHANT%20LATA&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Azure%20DevOps%20Engineer%20%7C%20Terraform%20Specialist%20%7C%20Cloud%20Automation&descAlignY=60&descSize=20"/>
-
-<br>
-
-<img width="120" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
 
 ### ☁ Azure DevOps Engineer
 
