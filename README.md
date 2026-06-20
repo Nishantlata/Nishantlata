@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="420" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
+<img width="120" src="https://user-images.githubusercontent.com/74038190/216656981-0a9a6a94-d5cb-4e62-a7d7-1d2f7fef7c8c.gif"/>
 
 ### ☁ Azure DevOps Engineer
 
